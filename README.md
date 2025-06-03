@@ -1,4 +1,4 @@
-# EX.-NO: 5 : ROW-COLUMN-TRANSFORMATION
+# EX.-NO-5-ROW-COLUMN-TRANSFORMATION
 # Date : 23.5.25
 # Register No. 212222040091
 # Aim:  To write a C program to implement the Row Column transformation.
