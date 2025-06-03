@@ -1,10 +1,11 @@
 # EX.-NO-5-ROW-COLUMN-TRANSFORMATION
-# Date : 23.5.25
-# Register No. 212222040091
-# Aim:  To write a C program to implement the Row Column transformation.
+
+## AIM:  
+To write a C program to implement the Row Column transformation.
 
 
-# Algorithm: STEP1: Read the plaintext P.
+## ALGORITHM: 
+STEP1: Read the plaintext P.
 STEP2: Determine the number of rows:
 STEP3: L = length(P)
 STEP4: R = ceil(L / N) → Number of rows needed
@@ -18,7 +19,7 @@ STEP11: Display the final encrypted message.
 
 
 
-# Program
+# PROGRAM:
 ```
 #include <stdio.h>
 #include <string.h>
@@ -78,10 +79,10 @@ int main() {
     return 0;
 }
 ```
-# Output
+## OUTPUT:
 ![image](https://github.com/user-attachments/assets/dcf8b883-41c2-4c8c-8fe7-68d278424149)
 
 
-# Result:
+## RESULT:
 thus, the implement the Row Column transformation.
 
