@@ -84,5 +84,5 @@ int main() {
 
 
 ## RESULT:
-thus, the implement the Row Column transformation.
+Thus the implement the Row Column transformation.
 
